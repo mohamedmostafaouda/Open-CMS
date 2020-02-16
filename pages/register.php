@@ -1,3 +1,6 @@
+<?php
+    if (isset)
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +13,7 @@
 </head>
 <body>
     <h1>Welcome</h1>
-    <form id="mainForm"action="">
+    <form id="mainForm"action="register.php" method="post">
         <input class="input" type="text" placeholder="Name">
         <br>
         <input class="input" type="text" placeholder="Username">
